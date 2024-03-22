@@ -1,0 +1,10 @@
+./.generated_files
+./build
+./debug
+./dist
+./nbproject
+./queuelogs
+
+*.log
+*.inx
+*.yml
