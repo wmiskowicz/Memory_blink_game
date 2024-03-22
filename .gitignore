@@ -1,9 +1,9 @@
-./.generated_files
-./build
-./debug
-./dist
-./nbproject
-./queuelogs
+./.generated_files/
+./build/
+./debug/
+./dist/
+./nbproject/
+./queuelogs/
 
 *.log
 *.inx
